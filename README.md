@@ -100,3 +100,10 @@
 * [Heroku]() to deploy the website
 * [Balsamiq]() for graphical illustration
 
+
+## Credits
+***
+* [Youtube]()
+* [Slack]()
+* [StackOverflow]()
+* [Pep8]() Python style guide
