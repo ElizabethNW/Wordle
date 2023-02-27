@@ -22,11 +22,11 @@
  * Technologies Used
  * Credits 
 
- ## Project Overview
+## Project Overview
  ***
  This is a Project to make the word game Wordle in Python. It is a simple but stimulating game designed to appeal to all users.
 
- ## Goals
+## Goals
  ***
  ### As a Developer
  * Explore game development in python
@@ -38,5 +38,14 @@
  * I want to see the right and wrong letters highlighted
  * I want to have may attempts
 
+### Features
+***
+#### Welcome Screen [Image]
+
+#### Instructions
+
+#### Game Start
+
+#### Game Over
 
 
