@@ -57,3 +57,19 @@
 
 #### Flowchart
 
+## Deployment
+***
+
+### Github
+#### Fork Repository
+* Log in to GitHub and locate the repository - Wordle.
+* Locate the Fork button in the top right corner of the page
+* Click the button to create a copy of the original repository in another GitHub Account
+
+#### Clone Repository
+* Click on the code button on main page
+* In the "Clone with HTTPS' section, click on the clipboard icon to copy the URL.
+* Open Git Bash in your IDE of choice.
+* Change the current working directory to new location for clone directory
+* Type git clone, and then paste the URL copied form GitHub.
+* Press enter and the clone will be created
