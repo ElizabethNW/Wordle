@@ -93,3 +93,10 @@
 
 #### Future Fix
 
+## Technology Used
+***
+* [GitHub]() as remote repository
+* [Python]() for the main game 
+* [Heroku]() to deploy the website
+* [Balsamiq]() for graphical illustration
+
