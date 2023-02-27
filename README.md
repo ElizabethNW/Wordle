@@ -49,3 +49,11 @@
 #### Game Over
 
 
+## Design
+***
+#### Colour Scheme
+
+#### Graphics
+
+#### Flowchart
+
