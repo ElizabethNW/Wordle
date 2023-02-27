@@ -73,3 +73,10 @@
 * Change the current working directory to new location for clone directory
 * Type git clone, and then paste the URL copied form GitHub.
 * Press enter and the clone will be created
+
+### Heroku [Code Institue Instructions]
+ * Create a new Heroku app on the Heroku website.
+ * Set config vars: Port and give it a value of 8000.
+ * Set buildpacks to Python and NodeJS in that order.
+ * Link the Heroku app to the repository on GitHub.
+ * Click on Deploy
