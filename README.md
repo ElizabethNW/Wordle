@@ -32,6 +32,11 @@
  * Explore game development in python
  * Create a game suitable for general use
  * To produce clear instructions on how to play the game
- 
-  
+
+ ### As a Player/Visitor
+ * I want to know how to play the game
+ * I want to see the right and wrong letters highlighted
+ * I want to have may attempts
+
+
 
