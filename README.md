@@ -26,5 +26,12 @@
  ***
  This is a Project to make the word game Wordle in Python. It is a simple but stimulating game designed to appeal to all users.
 
+ ## Goals
+ ***
+ ### As a Developer
+ * Explore game development in python
+ * Create a game suitable for general use
+ * To produce clear instructions on how to play the game
+ 
   
 
